@@ -1,5 +1,5 @@
 <?php
-header('Access-Control-Allow-Origin: velhobit.com.br'); 
+header('Access-Control-Allow-Origin: troque_para_seu_dominio.com.br'); 
 //Garantir que seja lido sem problemas
 header("Content-Type: text/plain");
 
